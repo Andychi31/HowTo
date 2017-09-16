@@ -1,0 +1,31 @@
+ p {
+        Font-family:"comic sans ms";
+        font-size:12;
+        Color:red;
+        text-indent:2.0cm;
+      }
+ h1 {
+        font-family:"comic sans ms";
+        font-size:300%;
+        color:red;
+        text-align:center;
+      }
+      h2 {
+        font-family:"comic sans ms";
+        font size:200%;
+        color:red;
+        text-align:center;
+      }
+body {
+        background-color:midnightblue;
+      }
+div {
+        padding:5px;
+        background-color:white;
+        color:red;
+        margin:30px;
+      }
+ img {
+ width:200px;
+ height:150px
+ }

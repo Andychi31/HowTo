@@ -1,31 +1,42 @@
  p {
         Font-family:"comic sans ms";
         font-size:12;
-        Color:red;
+        Color:#FF0000;
         text-indent:2.0cm;
       }
  h1 {
         font-family:"comic sans ms";
         font-size:300%;
-        color:red;
+        color:#FF0000;
         text-align:center;
       }
       h2 {
         font-family:"comic sans ms";
-        font size:200%;
-        color:red;
+        font-size:200%;
+        color:#FF0000;
+        text-align:center;
+      }
+      h3 {
+        font-family:"comic sans ms";
+        font-size:150%;
+        color:#FF0000;
         text-align:center;
       }
 body {
-        background-color:midnightblue;
+        background-color: #191970;
       }
 div {
         padding:5px;
-        background-color:white;
-        color:red;
+        background-color:#ffffff;
+        color:#FF0000;
         margin:30px;
       }
-img {
- height:150px;
- width:200px;
+      img {
+        height:150px;
+        width:200px;
+      }
+      tr, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
 }

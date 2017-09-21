@@ -1,4 +1,4 @@
- p {
+p {
         Font-family:"comic sans ms";
         font-size:12;
         Color:#FF0000;
@@ -39,4 +39,7 @@ div {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+}
+ul {
+  list-style-type:square;
 }

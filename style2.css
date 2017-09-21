@@ -1,0 +1,42 @@
+  p {
+        Font-family:"comic sans ms";
+        font-size:12;
+        Color:#ffffff;
+        text-indent:2.0cm;
+      }
+ h1 {
+        font-family:"comic sans ms";
+        font-size:300%;
+        color:#ffffff;
+        text-align:center;
+      }
+      h2 {
+        font-family:"comic sans ms";
+        font-size:200%;
+        color:#ffffff;
+        text-align:center;
+      }
+      h3 {
+        font-family:"comic sans ms";
+        font-size:150%;
+        color:#ffffff;
+        text-align:center;
+      }
+body {
+        background-color: #ffffff;
+      }
+div.HowTo {
+        padding:5px;
+        background-color:#000000;
+        color:#ffffff;
+        margin:30px;
+      }
+      img {
+        height:150px;
+        width:200px;
+      }
+      tr, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
